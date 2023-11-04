@@ -22,14 +22,14 @@
 <p>We want to inform you that whenever you use our Service, in case of an error in the app we collect
     data and information (through third party products) on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
-    operating system version, configuration of the app when utilising [my|our] Service, the time and date
+    operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics.</p>
 
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
     internal memory.</p>
-<p>>!-- Check if this is true for your app, if unsure, just assume that you do use cookies and modify this next line -->This Services uses “cookies” explicitly. However, the app may use third party code
+<p>This Services uses “cookies” explicitly. However, the app may use third party code
     and libraries that use “cookies” to collection information and to improve their services. You
     have the option to either accept or refuse these cookies, and know when a cookie is being sent
     to your device. If you choose to refuse our cookies, you may not be able to use some portions of
